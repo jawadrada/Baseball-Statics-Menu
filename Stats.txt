@@ -1,0 +1,10 @@
+Guerrero Bluejays 604 123 188 48 111
+Olsen Athletics 565 101 153 39 111
+Abreu Whitesox 566 86 148 30 117
+Machado Padres 564 92 157 28 106
+Ohtani Angels 537 103 138 46 100
+Hernandez Bluejays 550 92 163 32 116
+Bichette Bluejays 640 121 191 29 102
+Arenado Cardinals 593 81 151 34 105
+Judge Yankees 550 89 158 39 98
+Perez Royals 620 88 169 48 121
